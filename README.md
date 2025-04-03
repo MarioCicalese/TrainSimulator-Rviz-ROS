@@ -4,6 +4,8 @@
 
 This project simulates trains movements using ROS and RViz. The system processes train schedule data, identifies delayed and canceled trains, and visually represents their movement in real-time. The simulation displays stations and trains using markers with different colors based on their status.
 
+![Simulation GIF](images/simulation.gif)
+
 ## 🌟 Features
 
 - 📊 **Train Data Processing:** Retrieves and processes scheduled train data.
