@@ -1,0 +1,7 @@
+<launch>
+
+   <!-- <node name="dataCollector" pkg="uno" type="dataCollector.py" output="screen" /> -->
+
+    <param name="update_frequency" type="int" value="60" />
+    <param name="delay_threshold" type="int" value="5" />
+</launch>

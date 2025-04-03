@@ -1,0 +1,4 @@
+Departure Station;Arrival Destination;Date of Journey;Departure Time;Arrival Time;Actual Arrival Time;Journey Status;Reason for Delay;x_departure;y_departure;x_arrival;y_arrival
+Manchester;Liverpool;03/04/2025;08:00:00;09:00:00;19:30:00;Delayed;Weather Conditions;-5;-5;-5;5
+﻿Liverpool;Manchester;03/04/2025;08:39:00;18:40:00;;On Time;;0;-5;0;5
+London;Bristol;03/04/2025;09:05:00;09:17:00;17:33:00;Delayed;Signal failure;5;-5;5;5

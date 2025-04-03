@@ -1,0 +1,3 @@
+string departure_station
+---
+TrainData[] train_list
