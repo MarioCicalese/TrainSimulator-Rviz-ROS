@@ -82,7 +82,7 @@ In the second part of the project, RViz is used to visualize real-time 🚆 move
 - 🔴 **Red Cube:** Arrival Station.
 - 🟢 **Green Sphere:** On-time train.
 - 🟡 **Yellow Sphere:** Delayed train.
-- 🌸 **Pink Sphere:** Canceled train (remains at departure station).
+- 🔴 **Red Sphere:** Canceled train (remains at departure station).
 
 ### 🏃 Execution:
 
@@ -106,7 +106,7 @@ In the second part of the project, RViz is used to visualize real-time 🚆 move
    ```
 2️⃣ Clone the **repository**:
    ```sh
-   git clone https://github.com/yourusername/train-simulation.git
+   git clone https://github.com/MarioCicalese/TrainSimulator-Rviz-ROS.git
    ```
 3️⃣ Build the **workspace**:
    ```sh
